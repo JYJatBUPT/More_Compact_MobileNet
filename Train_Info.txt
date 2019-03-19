@@ -1,0 +1,220 @@
+escaped time of this epoch:27.29880404472351
+epoch: 0, iter: 64876, train_loss: 1.555255764601182, test_loss: 1.2815411269664765,test accuracy: 53.78%
+escaped time of this epoch:54.630879402160645
+epoch: 1, iter: 65072, train_loss: 1.052799875638923, test_loss: 0.8944498971104622,test accuracy: 69.0%
+escaped time of this epoch:81.97695922851562
+epoch: 2, iter: 65268, train_loss: 0.7800804729364357, test_loss: 0.774976558983326,test accuracy: 73.8%
+escaped time of this epoch:109.2640106678009
+epoch: 3, iter: 65464, train_loss: 0.6379840900095142, test_loss: 0.6498964205384254,test accuracy: 77.88%
+escaped time of this epoch:136.65099835395813
+epoch: 4, iter: 65660, train_loss: 0.5420295149087906, test_loss: 0.598659984767437,test accuracy: 80.35%
+escaped time of this epoch:164.02207374572754
+epoch: 5, iter: 65856, train_loss: 0.48772342305402366, test_loss: 0.5833701834082603,test accuracy: 81.12%
+escaped time of this epoch:191.30519080162048
+epoch: 6, iter: 66052, train_loss: 0.43755943541015896, test_loss: 0.5455368369817734,test accuracy: 81.73%
+escaped time of this epoch:218.5578145980835
+epoch: 7, iter: 66248, train_loss: 0.4117570960400056, test_loss: 0.5553846187889576,test accuracy: 81.62%
+escaped time of this epoch:245.84009671211243
+epoch: 8, iter: 66444, train_loss: 0.38388953715258717, test_loss: 0.5679589942097664,test accuracy: 81.27%
+escaped time of this epoch:273.1962938308716
+epoch: 9, iter: 66640, train_loss: 0.3646791566695486, test_loss: 0.5382883504033089,test accuracy: 82.47%
+escaped time of this epoch:300.4710738658905
+epoch: 10, iter: 66836, train_loss: 0.35281186999411, test_loss: 0.569065372645855,test accuracy: 81.42%
+escaped time of this epoch:327.88392329216003
+epoch: 11, iter: 67032, train_loss: 0.3326212556234428, test_loss: 0.5450852394104004,test accuracy: 82.62%
+escaped time of this epoch:355.21088433265686
+epoch: 12, iter: 67228, train_loss: 0.3251074349545703, test_loss: 0.5164150349795819,test accuracy: 82.85%
+escaped time of this epoch:382.4341502189636
+epoch: 13, iter: 67424, train_loss: 0.3083296225843381, test_loss: 0.5256128661334515,test accuracy: 82.74%
+escaped time of this epoch:409.79856848716736
+epoch: 14, iter: 67620, train_loss: 0.31175660197528043, test_loss: 0.5235921964049339,test accuracy: 83.05%
+escaped time of this epoch:437.19081592559814
+epoch: 15, iter: 67816, train_loss: 0.302789750147839, test_loss: 0.5112263962626458,test accuracy: 83.07%
+escaped time of this epoch:464.57400941848755
+epoch: 16, iter: 68012, train_loss: 0.30424689874053, test_loss: 0.5268481932580471,test accuracy: 83.4%
+escaped time of this epoch:491.87424516677856
+epoch: 17, iter: 68208, train_loss: 0.28382445917445787, test_loss: 0.49000257030129435,test accuracy: 84.15%
+escaped time of this epoch:519.1853535175323
+epoch: 18, iter: 68404, train_loss: 0.2874777083646278, test_loss: 0.5137580811977387,test accuracy: 83.67%
+escaped time of this epoch:546.5421936511993
+epoch: 19, iter: 68600, train_loss: 0.28895564803055357, test_loss: 0.5016224965453148,test accuracy: 84.19%
+escaped time of this epoch:573.8910796642303
+epoch: 20, iter: 68796, train_loss: 0.2823467706995351, test_loss: 0.5142083205282688,test accuracy: 83.43%
+escaped time of this epoch:601.1615946292877
+epoch: 21, iter: 68992, train_loss: 0.2742222573380081, test_loss: 0.49255587756633756,test accuracy: 84.51%
+escaped time of this epoch:628.468540430069
+epoch: 22, iter: 69188, train_loss: 0.27278973861616485, test_loss: 0.496611499786377,test accuracy: 84.49%
+escaped time of this epoch:655.7815170288086
+epoch: 23, iter: 69384, train_loss: 0.28065769838131205, test_loss: 0.4955120176076889,test accuracy: 83.88%
+escaped time of this epoch:683.1110992431641
+epoch: 24, iter: 69580, train_loss: 0.2810226535158498, test_loss: 0.47926296591758727,test accuracy: 84.62%
+escaped time of this epoch:710.4088716506958
+epoch: 25, iter: 69776, train_loss: 0.2789118387261216, test_loss: 0.5069274127483367,test accuracy: 83.81%
+escaped time of this epoch:737.6839435100555
+epoch: 26, iter: 69972, train_loss: 0.26621835709226377, test_loss: 0.4956455960869789,test accuracy: 84.3%
+escaped time of this epoch:764.9365830421448
+epoch: 27, iter: 70168, train_loss: 0.26586789234864466, test_loss: 0.5004021801054478,test accuracy: 84.5%
+escaped time of this epoch:792.2037885189056
+epoch: 28, iter: 70364, train_loss: 0.25773568877152037, test_loss: 0.5106120079755783,test accuracy: 83.38%
+escaped time of this epoch:819.4676995277405
+epoch: 29, iter: 70560, train_loss: 0.27493338689816244, test_loss: 0.495574077218771,test accuracy: 84.22%
+escaped time of this epoch:846.759566783905
+epoch: 30, iter: 70756, train_loss: 0.26216233354441976, test_loss: 0.49644156396389005,test accuracy: 84.11%
+escaped time of this epoch:874.0416452884674
+epoch: 31, iter: 70952, train_loss: 0.2607435548335922, test_loss: 0.5083077147603035,test accuracy: 84.16%
+escaped time of this epoch:901.3862273693085
+epoch: 32, iter: 71148, train_loss: 0.2665386653068114, test_loss: 0.5016113594174385,test accuracy: 84.4%
+escaped time of this epoch:928.8154718875885
+epoch: 33, iter: 71344, train_loss: 0.26930003354744037, test_loss: 0.4777001358568668,test accuracy: 84.85%
+escaped time of this epoch:956.0956201553345
+epoch: 34, iter: 71540, train_loss: 0.25213692770624646, test_loss: 0.47879101186990736,test accuracy: 84.47%
+escaped time of this epoch:983.4489669799805
+epoch: 35, iter: 71736, train_loss: 0.26706983453156996, test_loss: 0.4579457797110081,test accuracy: 85.75%
+escaped time of this epoch:1010.7391488552094
+epoch: 36, iter: 71932, train_loss: 0.2565804331810499, test_loss: 0.47255523726344106,test accuracy: 85.07%
+escaped time of this epoch:1038.2225103378296
+epoch: 37, iter: 72128, train_loss: 0.2563591340214622, test_loss: 0.4646195605397224,test accuracy: 84.89%
+escaped time of this epoch:1065.562863111496
+epoch: 38, iter: 72324, train_loss: 0.2596060722990304, test_loss: 0.47859288305044173,test accuracy: 84.82%
+escaped time of this epoch:1092.9348013401031
+epoch: 39, iter: 72520, train_loss: 0.25369139730322116, test_loss: 0.4735552124679089,test accuracy: 85.01%
+escaped time of this epoch:1120.210951089859
+epoch: 40, iter: 72716, train_loss: 0.25821547689182417, test_loss: 0.46785819306969645,test accuracy: 85.09%
+escaped time of this epoch:1147.6354234218597
+epoch: 41, iter: 72912, train_loss: 0.11400213216108326, test_loss: 0.3643701419234276,test accuracy: 88.99%
+escaped time of this epoch:1174.944254398346
+epoch: 42, iter: 73108, train_loss: 0.05064123378572415, test_loss: 0.37366200722754,test accuracy: 89.18%
+escaped time of this epoch:1202.2271800041199
+epoch: 43, iter: 73304, train_loss: 0.029406244937824656, test_loss: 0.39011774137616156,test accuracy: 89.29%
+escaped time of this epoch:1229.5242726802826
+epoch: 44, iter: 73500, train_loss: 0.01924793219802027, test_loss: 0.40473023019731047,test accuracy: 89.43%
+escaped time of this epoch:1256.877123117447
+epoch: 45, iter: 73696, train_loss: 0.013528326925422465, test_loss: 0.4154531601816416,test accuracy: 89.23%
+escaped time of this epoch:1284.1357870101929
+epoch: 46, iter: 73892, train_loss: 0.01012238838747904, test_loss: 0.4276249945163727,test accuracy: 89.24%
+escaped time of this epoch:1311.3620903491974
+epoch: 47, iter: 74088, train_loss: 0.008105855537293365, test_loss: 0.43403248190879823,test accuracy: 89.38%
+escaped time of this epoch:1338.6606633663177
+epoch: 48, iter: 74284, train_loss: 0.006323991618974477, test_loss: 0.4409411959350109,test accuracy: 89.51%
+escaped time of this epoch:1366.0770716667175
+epoch: 49, iter: 74480, train_loss: 0.005582995955091046, test_loss: 0.4472029719501734,test accuracy: 89.4%
+escaped time of this epoch:1393.4978771209717
+epoch: 50, iter: 74676, train_loss: 0.00474464718955664, test_loss: 0.4514640212059021,test accuracy: 89.56%
+escaped time of this epoch:1420.8594675064087
+epoch: 51, iter: 74872, train_loss: 0.004204414269354727, test_loss: 0.45613677948713305,test accuracy: 89.31%
+escaped time of this epoch:1448.1991341114044
+epoch: 52, iter: 75068, train_loss: 0.0038704578099506243, test_loss: 0.45881096050143244,test accuracy: 89.5%
+escaped time of this epoch:1475.552838563919
+epoch: 53, iter: 75264, train_loss: 0.0035431621933584008, test_loss: 0.46163276210427284,test accuracy: 89.39%
+escaped time of this epoch:1502.8775799274445
+epoch: 54, iter: 75460, train_loss: 0.003557626604653743, test_loss: 0.4636919960379601,test accuracy: 89.37%
+escaped time of this epoch:1530.229567527771
+epoch: 55, iter: 75656, train_loss: 0.003488181021102533, test_loss: 0.46595648750662805,test accuracy: 89.31%
+escaped time of this epoch:1557.5103476047516
+epoch: 56, iter: 75852, train_loss: 0.0030123595711394995, test_loss: 0.46857199892401696,test accuracy: 89.27%
+escaped time of this epoch:1584.8221552371979
+epoch: 57, iter: 76048, train_loss: 0.0029039657603455137, test_loss: 0.468817176669836,test accuracy: 89.21%
+escaped time of this epoch:1612.1817514896393
+epoch: 58, iter: 76244, train_loss: 0.0027500339379838232, test_loss: 0.4715298794209957,test accuracy: 89.24%
+escaped time of this epoch:1639.60404753685
+epoch: 59, iter: 76440, train_loss: 0.0025573231336869754, test_loss: 0.4695334531366825,test accuracy: 89.27%
+escaped time of this epoch:1667.0079247951508
+epoch: 60, iter: 76636, train_loss: 0.0023985766705923845, test_loss: 0.4702443040907383,test accuracy: 89.31%
+escaped time of this epoch:1694.4229278564453
+epoch: 61, iter: 76832, train_loss: 0.002332877832208285, test_loss: 0.47134113907814024,test accuracy: 89.29%
+escaped time of this epoch:1721.7905566692352
+epoch: 62, iter: 77028, train_loss: 0.00239729185170513, test_loss: 0.4756078660488129,test accuracy: 89.25%
+escaped time of this epoch:1749.2009432315826
+epoch: 63, iter: 77224, train_loss: 0.002227175771733936, test_loss: 0.4747235082089901,test accuracy: 89.22%
+escaped time of this epoch:1776.6231501102448
+epoch: 64, iter: 77420, train_loss: 0.0021437175455503166, test_loss: 0.47432089075446127,test accuracy: 89.12%
+escaped time of this epoch:1804.062564611435
+epoch: 65, iter: 77616, train_loss: 0.002237132223018882, test_loss: 0.47520958408713343,test accuracy: 89.14%
+escaped time of this epoch:1831.426349401474
+epoch: 66, iter: 77812, train_loss: 0.0021307602375080542, test_loss: 0.4782759428024292,test accuracy: 89.18%
+escaped time of this epoch:1858.8486573696136
+epoch: 67, iter: 78008, train_loss: 0.002078763731964389, test_loss: 0.476627479493618,test accuracy: 89.19%
+escaped time of this epoch:1886.27050614357
+epoch: 68, iter: 78204, train_loss: 0.0020314757403328406, test_loss: 0.47675620689988135,test accuracy: 89.25%
+escaped time of this epoch:1913.6077971458435
+epoch: 69, iter: 78400, train_loss: 0.001969280639634829, test_loss: 0.478725366294384,test accuracy: 89.17%
+escaped time of this epoch:1941.0171661376953
+epoch: 70, iter: 78596, train_loss: 0.0020082634933083795, test_loss: 0.47957474961876867,test accuracy: 89.19%
+escaped time of this epoch:1968.3410034179688
+epoch: 71, iter: 78792, train_loss: 0.001994856649876705, test_loss: 0.4800458028912544,test accuracy: 89.18%
+escaped time of this epoch:1995.7289414405823
+epoch: 72, iter: 78988, train_loss: 0.0020353367970306047, test_loss: 0.4786946639418602,test accuracy: 89.2%
+escaped time of this epoch:2023.0761272907257
+epoch: 73, iter: 79184, train_loss: 0.001953779370523989, test_loss: 0.48034834042191504,test accuracy: 89.2%
+escaped time of this epoch:2050.473605155945
+epoch: 74, iter: 79380, train_loss: 0.002030006457804417, test_loss: 0.48004636391997335,test accuracy: 89.11%
+escaped time of this epoch:2077.858571767807
+epoch: 75, iter: 79576, train_loss: 0.0021044879353472163, test_loss: 0.4825645789504051,test accuracy: 89.19%
+escaped time of this epoch:2105.2357788085938
+epoch: 76, iter: 79772, train_loss: 0.001967892847831684, test_loss: 0.4849816389381886,test accuracy: 89.23%
+escaped time of this epoch:2132.618780374527
+epoch: 77, iter: 79968, train_loss: 0.0019150380857706983, test_loss: 0.4837823033332825,test accuracy: 89.18%
+escaped time of this epoch:2159.9700667858124
+epoch: 78, iter: 80164, train_loss: 0.0019337093488465311, test_loss: 0.48391514346003534,test accuracy: 89.2%
+escaped time of this epoch:2187.374139547348
+epoch: 79, iter: 80360, train_loss: 0.002049709313872213, test_loss: 0.48738994300365446,test accuracy: 89.15%
+escaped time of this epoch:2214.6921710968018
+epoch: 80, iter: 80556, train_loss: 0.001930069720030439, test_loss: 0.48675111681222916,test accuracy: 89.11%
+escaped time of this epoch:2242.17795753479
+epoch: 81, iter: 80752, train_loss: 0.0018578826625622353, test_loss: 0.48659407868981364,test accuracy: 89.12%
+escaped time of this epoch:2269.5613894462585
+epoch: 82, iter: 80948, train_loss: 0.0018146501946719174, test_loss: 0.4865972675383091,test accuracy: 89.14%
+escaped time of this epoch:2296.9740245342255
+epoch: 83, iter: 81144, train_loss: 0.0018153753278929057, test_loss: 0.48675930723547933,test accuracy: 89.11%
+escaped time of this epoch:2324.4336512088776
+epoch: 84, iter: 81340, train_loss: 0.0018411400746934268, test_loss: 0.48646953925490377,test accuracy: 89.15%
+escaped time of this epoch:2351.8619072437286
+epoch: 85, iter: 81536, train_loss: 0.001855977105299885, test_loss: 0.4865524508059025,test accuracy: 89.15%
+escaped time of this epoch:2379.206117630005
+epoch: 86, iter: 81732, train_loss: 0.0018949235779974535, test_loss: 0.48654190376400946,test accuracy: 89.14%
+escaped time of this epoch:2406.494640111923
+epoch: 87, iter: 81928, train_loss: 0.002032038042968025, test_loss: 0.48632231503725054,test accuracy: 89.14%
+escaped time of this epoch:2433.9055581092834
+epoch: 88, iter: 82124, train_loss: 0.0022786709251908623, test_loss: 0.4845991112291813,test accuracy: 89.19%
+escaped time of this epoch:2461.293697834015
+epoch: 89, iter: 82320, train_loss: 0.0019221037806829019, test_loss: 0.48634869381785395,test accuracy: 89.15%
+escaped time of this epoch:2488.572430372238
+epoch: 90, iter: 82516, train_loss: 0.0018752660146173165, test_loss: 0.48598082438111306,test accuracy: 89.17%
+escaped time of this epoch:2515.9224665164948
+epoch: 91, iter: 82712, train_loss: 0.0019017638001895072, test_loss: 0.4857265390455723,test accuracy: 89.13%
+escaped time of this epoch:2543.2960662841797
+epoch: 92, iter: 82908, train_loss: 0.0019278507204536274, test_loss: 0.48551018834114074,test accuracy: 89.13%
+escaped time of this epoch:2570.747158765793
+epoch: 93, iter: 83104, train_loss: 0.0019754577684691368, test_loss: 0.4851830258965492,test accuracy: 89.09%
+escaped time of this epoch:2598.0662713050842
+epoch: 94, iter: 83300, train_loss: 0.0018722825833330198, test_loss: 0.48503536358475685,test accuracy: 89.19%
+escaped time of this epoch:2625.3931515216827
+epoch: 95, iter: 83496, train_loss: 0.0018458211181533275, test_loss: 0.4852078050374985,test accuracy: 89.2%
+escaped time of this epoch:2652.7343492507935
+epoch: 96, iter: 83692, train_loss: 0.001872966085009429, test_loss: 0.48537288084626196,test accuracy: 89.2%
+escaped time of this epoch:2680.128867149353
+epoch: 97, iter: 83888, train_loss: 0.0018096487061595734, test_loss: 0.4856234207749367,test accuracy: 89.21%
+escaped time of this epoch:2707.5683732032776
+epoch: 98, iter: 84084, train_loss: 0.0019971377986046125, test_loss: 0.48550191447138785,test accuracy: 89.2%
+escaped time of this epoch:2734.958096265793
+epoch: 99, iter: 84280, train_loss: 0.0018283173807763628, test_loss: 0.48563967272639275,test accuracy: 89.24%
+escaped time of this epoch:2762.239415168762
+epoch: 100, iter: 84476, train_loss: 0.0018267690189828982, test_loss: 0.4858368828892708,test accuracy: 89.24%
+escaped time of this epoch:2789.521175146103
+epoch: 101, iter: 84672, train_loss: 0.0018429238567775, test_loss: 0.4861429363489151,test accuracy: 89.25%
+escaped time of this epoch:2816.8249168395996
+epoch: 102, iter: 84868, train_loss: 0.0018392904466778344, test_loss: 0.4859567224979401,test accuracy: 89.22%
+escaped time of this epoch:2844.1638040542603
+epoch: 103, iter: 85064, train_loss: 0.0018335786904683526, test_loss: 0.4859443068504333,test accuracy: 89.25%
+escaped time of this epoch:2871.5248675346375
+epoch: 104, iter: 85260, train_loss: 0.0018206505052631302, test_loss: 0.48598519787192346,test accuracy: 89.25%
+escaped time of this epoch:2898.816769361496
+epoch: 105, iter: 85456, train_loss: 0.0018785851342337473, test_loss: 0.4862517736852169,test accuracy: 89.25%
+escaped time of this epoch:2926.3545365333557
+epoch: 106, iter: 85652, train_loss: 0.0018839787131137385, test_loss: 0.48619070276618004,test accuracy: 89.21%
+escaped time of this epoch:2953.7420978546143
+epoch: 107, iter: 85848, train_loss: 0.001796640814472066, test_loss: 0.4861728183925152,test accuracy: 89.23%
+escaped time of this epoch:2981.156527042389
+epoch: 108, iter: 86044, train_loss: 0.0018486503038878496, test_loss: 0.4862261116504669,test accuracy: 89.23%
+escaped time of this epoch:3008.4070167541504
+epoch: 109, iter: 86240, train_loss: 0.001861768628575136, test_loss: 0.48599490001797674,test accuracy: 89.22%
